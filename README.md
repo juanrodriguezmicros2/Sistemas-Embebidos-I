@@ -18,24 +18,24 @@ El sistema busca ser **escalable**. de manera en la cual se pudiese añadir vari
 | Cámara ESP 32 CAM | 1 | Captura de imágenes para identificación | $38.900 | https://www.zamux.co/modulo-esp32-cam-con-wifi-y-bluetooth| ![ESP32 CAM](https://cdnx.jumpseller.com/zamux-electronica/image/16843143/thumb/719/719?1651276074)|
 | Chasis de acrílico o impreso en 3D | 1 | Estructura principal del carro| $7.000 | NA | ![Acrilico](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbL3TcwoNNor2YLQ3r48g-ve7KfK9M7p7PVA&s)|
 | Batería recargable 9V  con cargador| 1 | Fuente de alimentación para los motores | $45.000 | https://www.zamux.co/pila-9v-recargable-con-cargador | ![Bateria 9v y cargador](https://cdnx.jumpseller.com/zamux-electronica/image/60550119/thumb/1438/1438?1740508492)|
-| Bateria 3.7V litio | 1 | Energizar el microcontrolador | $25.900| | ![Bateria 3.7V](https://cdnx.jumpseller.com/zamux-electronica/image/18230914/thumb/1438/1438?1647282323)|
+| Bateria 3.7V litio | 1 | Energizar el microcontrolador | $25.900| https://www.zamux.co/bateria-recargable-litio-37v-500ma| ![Bateria 3.7V](https://cdnx.jumpseller.com/zamux-electronica/image/18230914/thumb/1438/1438?1647282323)|
 | Cargador bateria de litio | 1 | Carga la bateria de litio | $3.500 | https://www.zamux.co/cargador-bateria-litio-tp4056 | ![Cargador bateria de litio](https://cdnx.jumpseller.com/zamux-electronica/image/18484821/thumb/1438/1438?1650413993) |
 | Cables jumper y conectores | Varios | Conexión de componentes | $10.000 | NA| ![CABLES VARIOS](https://cdnx.jumpseller.com/zamux-electronica/image/18048014/thumb/1438/1438?1648666296)|
 | Protoboard o PCB | 1 | Organización de conexiones | $5.500 |https://www.zamux.co/baquela-virgen-15cm-x-15cm | ![BAQUELA](https://cdnx.jumpseller.com/zamux-electronica/image/18230700/thumb/1438/1438?1647280451)|
 | Tornillería y soportes | Varios | Ensamblaje mecánico | $5.000 | NA |  ![TORNILLOS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAsTJZEKFKl2wzAwiwxeOVswvTRXM_0yd7A&s)|
 
-| Servomotores SG90 / MG996R | 3-4 | Para articulaciones del brazo robótico |
-
-| Brazo robótico 4DOF (servo) | 1 | Brazo para levantar y manipular objetos |
+| Servomotores SG90 / MG996R | 3-4 | Para articulaciones del brazo robótico | $15.000 |https://www.zamux.co/servomotor-sg90-15kg-180-grados| ![Sg90](https://cdnx.jumpseller.com/zamux-electronica/image/18094447/thumb/1438/1438?1658248522)|
+|Rueda loca|1|Soporte a la estructura|$7.600|https://www.zamux.co/rueda-loca-metalica-con-esfera|![Rueda loca](https://cdnx.jumpseller.com/zamux-electronica/image/18145885/thumb/1438/1438?1650298372)
+| Brazo robótico MEARM | 1 | Brazo para levantar y manipular objetos |NA|NA|NA|
 
 ---
 
 ## 🎯 Finalidades del proyecto
-- **Automatización de recolección de basura**: ofrecer una solución tecnológica para la limpieza de espacios pequeños.  
+- **Automatización de recolección y seleccion de basura**: ofrecer una solución tecnológica para la limpieza de espacios pequeños.  
 - **Aplicación educativa**: fomentar el aprendizaje de robótica, control de motores, visión por computadora y uso de microcontroladores.  
 - **Desarrollo sostenible**: integrar tecnologías accesibles para proyectos orientados al cuidado ambiental.  
 - **Escalabilidad**: servir como base para futuros desarrollos en robótica móvil y autónoma.  
-- **Conectividad**: aprovechar la Raspberry Pi Pico W 2 para control remoto vía Wi-Fi o integración con aplicaciones móviles/PC.  
+- **Conectividad**: aprovechar la Raspberry Pi Pico W  para control remoto vía Wi-Fi o integración con aplicaciones móviles/PC.  
 
 ---
 
