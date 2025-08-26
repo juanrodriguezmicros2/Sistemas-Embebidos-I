@@ -1,10 +1,10 @@
 # 🚗🤖 Carro recolector de basura con Raspberry Pi Pico W 2  
 
 ## 📌 Descripción del proyecto
-Este proyecto consiste en el diseño y construcción de un vehículo de dos ruedas, controlado mediante una **Raspberry Pi Pico W 2**, que incorpora un **brazo robótico** y una **cámara**.  
-El objetivo principal es que el carro pueda desplazarse de manera controlada en forma remota, identificar objetos considerados basura y recogerlos mediante el brazo, contribuyendo así a soluciones tecnológicas para el cuidado del medio ambiente.  
+Este proyecto consiste en el diseño, construcción y programación de un vehículo de dos ruedas, controlado mediante una **Raspberry Pi Pico W **, que incorpora un **brazo robótico** y una **cámara**.  
+El objetivo principal es que el carro pueda desplazarse de manera controlada en forma remota o automatica, identificar objetos considerados, recogerlos mediante el brazo y clasificarlos, contribuyendo así a soluciones tecnológicas como por ejemplo para el cuidado del medio ambiente.  
 
-El sistema busca ser **escalable**, ideal para aplicaciones en robótica educativa, prototipado rápido y proyectos de sostenibilidad.  
+El sistema busca ser **escalable**. de manera en la cual se pudiese añadir varios de estos carros uno tras otro, ideal para aplicaciones en robótica educativa, prototipado rápido y proyectos de sostenibilidad.  
 
 ---
 
