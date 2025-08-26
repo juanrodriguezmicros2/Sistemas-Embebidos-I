@@ -23,7 +23,6 @@ El sistema busca ser **escalable**. de manera en la cual se pudiese añadir vari
 | Cables jumper y conectores | Varios | Conexión de componentes | $10.000 | NA| ![CABLES VARIOS](https://cdnx.jumpseller.com/zamux-electronica/image/18048014/thumb/1438/1438?1648666296)|
 | Protoboard o PCB | 1 | Organización de conexiones | $5.500 |https://www.zamux.co/baquela-virgen-15cm-x-15cm | ![BAQUELA](https://cdnx.jumpseller.com/zamux-electronica/image/18230700/thumb/1438/1438?1647280451)|
 | Tornillería y soportes | Varios | Ensamblaje mecánico | $5.000 | NA |  ![TORNILLOS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAsTJZEKFKl2wzAwiwxeOVswvTRXM_0yd7A&s)|
-
 | Servomotores SG90 / MG996R | 3-4 | Para articulaciones del brazo robótico | $15.000 |https://www.zamux.co/servomotor-sg90-15kg-180-grados| ![Sg90](https://cdnx.jumpseller.com/zamux-electronica/image/18094447/thumb/1438/1438?1658248522)|
 |Rueda loca|1|Soporte a la estructura|$7.600|https://www.zamux.co/rueda-loca-metalica-con-esfera|![Rueda loca](https://cdnx.jumpseller.com/zamux-electronica/image/18145885/thumb/1438/1438?1650298372)
 | Brazo robótico MEARM | 1 | Brazo para levantar y manipular objetos |NA|NA|NA|
