@@ -1,4 +1,4 @@
-# 🚗🤖 Carro recolector de basura con Raspberry Pi Pico W 2  
+# 🚗🤖 Carro recolector de basura con Raspberry Pi Pico W
 
 ## 📌 Descripción del proyecto
 Este proyecto consiste en el diseño, construcción y programación de un vehículo de dos ruedas, controlado mediante una **Raspberry Pi Pico W **, que incorpora un **brazo robótico** y una **cámara**.  
