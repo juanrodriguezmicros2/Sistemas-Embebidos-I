@@ -12,23 +12,16 @@ El sistema busca ser **escalable**. de manera en la cual se pudiese añadir vari
 
 | Componente | Cantidad | Descripción | Precio | Link | Imagen |
 |------------|----------|-------------|-------------|-------------|-------------|
-| Raspberry Pi Pico W | 1 | Microcontrolador principal con conectividad Wi-Fi | $38.080 | https://www.sigmaelectronica.net/producto/rpi-pico-2w/ | ![Raspberry pi pico 2w](https://www.sigmaelectronica.net/wp-content/uploads/2025/03/prorpipcio2w-600x450.jpg)
-| Motor DC | 2 | Sistema de tracción principal | $8.925 | https://www.sigmaelectronica.net/producto/sig1750/| ![Motoreductor](https://www.sigmaelectronica.net/wp-content/uploads/2024/11/2-1.jpg)]
-
-| Driver L298N o puente H | 1 | Controlador de motores DC | $11.800 |https://www.zamux.co/driver-l298-controlador-para-motor-puente-h-inversor-de-giro| ![Puente H L298N](https://cdnx.jumpseller.com/zamux-electronica/image/16745863/thumb/719/719?1657992116)
-
+| Raspberry Pi Pico W | 1 | Microcontrolador principal con conectividad Wi-Fi | $38.080 | https://www.sigmaelectronica.net/producto/rpi-pico-2w/ | ![Raspberry pi pico 2w](https://www.sigmaelectronica.net/wp-content/uploads/2025/03/prorpipcio2w-600x450.jpg)|
+| Motor DC | 2 | Sistema de tracción principal | $8.925 | https://www.sigmaelectronica.net/producto/sig1750/| ![Motoreductor](https://www.sigmaelectronica.net/wp-content/uploads/2024/11/2-1.jpg)]|
+| Driver L298N o puente H | 1 | Controlador de motores DC | $11.800 |https://www.zamux.co/driver-l298-controlador-para-motor-puente-h-inversor-de-giro| ![Puente H L298N](https://cdnx.jumpseller.com/zamux-electronica/image/16745863/thumb/719/719?1657992116)|
 | Cámara ESP 32 CAM | 1 | Captura de imágenes para identificación | $38.900 | https://www.zamux.co/modulo-esp32-cam-con-wifi-y-bluetooth| ![ESP32 CAM](https://cdnx.jumpseller.com/zamux-electronica/image/16843143/thumb/719/719?1651276074)|
-
 | Chasis de acrílico o impreso en 3D | 1 | Estructura principal del carro| $7.000 | NA | ![Acrilico](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbL3TcwoNNor2YLQ3r48g-ve7KfK9M7p7PVA&s)|
-
 | Batería recargable 9V  con cargador| 1 | Fuente de alimentación para los motores | $45.000 | https://www.zamux.co/pila-9v-recargable-con-cargador | ![Bateria 9v y cargador](https://cdnx.jumpseller.com/zamux-electronica/image/60550119/thumb/1438/1438?1740508492)|
 | Bateria 3.7V litio | 1 | Energizar el microcontrolador | $25.900| | ![Bateria 3.7V](https://cdnx.jumpseller.com/zamux-electronica/image/18230914/thumb/1438/1438?1647282323)|
 | Cargador bateria de litio | 1 | Carga la bateria de litio | $3.500 | https://www.zamux.co/cargador-bateria-litio-tp4056 | ![Cargador bateria de litio](https://cdnx.jumpseller.com/zamux-electronica/image/18484821/thumb/1438/1438?1650413993) |
-
 | Cables jumper y conectores | Varios | Conexión de componentes | $10.000 | NA| ![CABLES VARIOS](https://cdnx.jumpseller.com/zamux-electronica/image/18048014/thumb/1438/1438?1648666296)|
-
 | Protoboard o PCB | 1 | Organización de conexiones | $5.500 |https://www.zamux.co/baquela-virgen-15cm-x-15cm | ![BAQUELA](https://cdnx.jumpseller.com/zamux-electronica/image/18230700/thumb/1438/1438?1647280451)|
-
 | Tornillería y soportes | Varios | Ensamblaje mecánico | $5.000 | NA |  ![TORNILLOS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAsTJZEKFKl2wzAwiwxeOVswvTRXM_0yd7A&s)|
 
 | Servomotores SG90 / MG996R | 3-4 | Para articulaciones del brazo robótico |
