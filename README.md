@@ -14,7 +14,7 @@ El sistema busca ser **escalable**. de manera en la cual se pudiese añadir vari
 |------------|----------|-------------|-------------|-------------|-------------|
 | Raspberry Pi Pico W | 1 | Microcontrolador principal con conectividad Wi-Fi | $38.080 | https://www.sigmaelectronica.net/producto/rpi-pico-2w/ | ![Raspberry pi pico 2w](https://www.sigmaelectronica.net/wp-content/uploads/2025/03/prorpipcio2w-600x450.jpg)|
 | Ultrasonido HCSR04|1|Detección de colisiones|$6.900|https://www.zamux.co/sensor-de-ultrasonido-hcsr04|![HCSR04](https://cdnx.jumpseller.com/zamux-electronica/image/55453874/thumb/1438/1438?1729551806)
-| Motor DC | 2 | Sistema de tracción principal | $8.925 | https://www.sigmaelectronica.net/producto/sig1750/| ![Motoreductor](https://www.sigmaelectronica.net/wp-content/uploads/2024/11/2-1.jpg)]|
+| Motor DC | 2 | Sistema de tracción principal | $8.925 c/u| https://www.sigmaelectronica.net/producto/sig1750/| ![Motoreductor](https://www.sigmaelectronica.net/wp-content/uploads/2024/11/2-1.jpg)]|
 | Driver L298N o puente H | 1 | Controlador de motores DC | $11.800 |https://www.zamux.co/driver-l298-controlador-para-motor-puente-h-inversor-de-giro| ![Puente H L298N](https://cdnx.jumpseller.com/zamux-electronica/image/16745863/thumb/719/719?1657992116)|
 | Cámara ESP 32 CAM | 1 | Captura de imágenes para identificación | $38.900 | https://www.zamux.co/modulo-esp32-cam-con-wifi-y-bluetooth| ![ESP32 CAM](https://cdnx.jumpseller.com/zamux-electronica/image/16843143/thumb/719/719?1651276074)|
 | Chasis de acrílico o impreso en 3D | 1 | Estructura principal del carro| $7.000 | NA | ![Acrilico](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbL3TcwoNNor2YLQ3r48g-ve7KfK9M7p7PVA&s)|
@@ -30,6 +30,12 @@ El sistema busca ser **escalable**. de manera en la cual se pudiese añadir vari
 |iMAN DE NEODIMIO|2|Añadir otro carro al sistema|$2.000|https://www.zamux.co/iman-neodimio-redondo-1-cm|![iman](https://cdnx.jumpseller.com/zamux-electronica/image/51462622/thumb/1438/1438?1722976229)|
 |Giroscopio|1|Control de posiccion espacial|$8.900|https://www.zamux.co/sensor-acelerometro-y-giroscopio-mpu6050|![MPU6050](https://cdnx.jumpseller.com/zamux-electronica/image/17612297/thumb/1438/1438?1651879739)|
 
+---
+**🔢 Total estimado (sin incluir el brazo MEARM):**  
+👉 **$296.930 COP**
+
+> 📌 *Nota:* El costo final puede variar dependiendo del precio del brazo robótico MEARM, que no se incluyó en la suma por no estar disponible su valor. Además, los precios corresponden a una estimación en línea y pueden cambiar según el proveedor y demas adecauciones para la puesta en marcha del proyecto.
+> 
 ---
 
 ## 🎯 Finalidades del proyecto
